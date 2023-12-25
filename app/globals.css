@@ -9,6 +9,9 @@
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
 
+  --primary-color: #0070f3;
+  --primary-white: rgb(216, 211, 211);
+  --primary-red: rgb(179, 3, 3);
   --primary-glow: conic-gradient(
     from 180deg at 50% 50%,
     #16abff33 0deg,
@@ -104,4 +107,12 @@ a {
   html {
     color-scheme: dark;
   }
+}
+
+button {
+  color: #fff;
+  padding: 0.2rem 0.6rem;
+  cursor: pointer;
+  border: transparent;
+  border-radius: .5rem;
 }
