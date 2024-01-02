@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Next+Prisma+Project
+## Next+Prisma+Project - vercel deployment
 #### npx create-next-app@latest
 * select No for all options except App Route
 #### first - push to github
